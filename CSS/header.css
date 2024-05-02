@@ -1,0 +1,32 @@
+header {
+}
+
+.title {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 80px 20px 40px;
+  border-bottom: 1px solid #d3d6da;
+}
+
+.title_menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+}
+
+.title_name {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+}
+
+.title_icons {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50px;
+  gap: 15px;
+}

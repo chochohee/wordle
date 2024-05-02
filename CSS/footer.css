@@ -1,0 +1,37 @@
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+  padding-top: 30px;
+}
+
+.kebord {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 5px;
+}
+
+.kebord_key {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid #d3d6da;
+  width: 50px;
+  height: 75px;
+  font-weight: bolder;
+}
+
+.kebord_key img {
+  width: 30px;
+}
+
+#enter {
+  width: 90px;
+}
+
+#backspace {
+  width: 90px;
+}
