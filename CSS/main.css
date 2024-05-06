@@ -4,7 +4,12 @@ main {
   justify-content: center;
   align-items: center;
   gap: 5px;
-  padding-top: 40px;
+  font-weight: bolder;
+}
+
+.time {
+  margin-bottom: 10px;
+  font-weight: bold;
 }
 
 .bord-row {

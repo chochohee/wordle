@@ -21,6 +21,7 @@ header {
   justify-content: center;
   align-items: center;
   font-size: 50px;
+  font-weight: bolder;
 }
 
 .title_icons {
